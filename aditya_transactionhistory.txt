@@ -1,0 +1,6 @@
+2021-10-11 16:28:21.826972
+Previous balance: 0. Deposit amount is:50.0. New balance:50.0
+2021-10-12 10:44:33.166463
+Previous balance: 50.0. Deposit amount is:12.0. New balance:62.0
+2021-10-12 10:44:39.761945
+Previous balance: 62.0. Withdrawn amount is:23.0. New balance:39.0
